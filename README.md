@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Garima Goyal
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning Frontend development
+- 💞️ I’m looking to collaborate on CSS projects
